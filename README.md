@@ -1,7 +1,7 @@
 # PUBG Cheat Menu with Aimbot
 
 > 💬 Join our Discord community for Private version of **PUBG Cheat** GUI, Support and more!  
-> [![Join our Discord](https://img.shields.io/discord/1174326154207953006?color=5865F2&label=Join%20Discord&logo=discord&style=for-the-badge)](https://discord.com/servers/elusion-cheats-1174326154207953006)
+> [![Join our Discord](https://img.shields.io/discord/1174326154207953006?color=5865F2&label=Join%20Discord&logo=discord&style=for-the-badge)](https://discord.gg/SfkrK75HNj)
 
 ## PUBG Cheat
 
